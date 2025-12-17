@@ -50,5 +50,5 @@ Analisis dilakukan menggunakan Python untuk data cleaning, analisis statistik, d
 - Fokus pada customer dengan profit tinggi.
 - Mengevaluasi performa industry dan region.
 - Mendukung pengambilan keputusan berbasis data.
-- 
+  
 HAPPY LEARNING EVERYONE:) !!!
