@@ -23,7 +23,7 @@ Analisis dilakukan menggunakan Python untuk data cleaning, analisis statistik, d
 - Menghapus data duplikat.
 - Memastikan tipe data numerik sudah sesuai.
 - Validasi nilai profit dan discount.
-  **
+  
 **5. Exploratory Data Analysis (EDA) Analisis eksplorasi data meliputi:**
 - Statistik deskriptif (mean, median, minimum, maksimum).
 - Distribusi nilai sales dan profit.
